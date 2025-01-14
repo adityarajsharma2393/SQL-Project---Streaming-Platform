@@ -1,5 +1,9 @@
 Netflix Movies and TV Shows Data Analysis
 
+###  Project Overview
+
+In this we  project analyzed a dataset of 8,807 rows and more than 100k datapoints, covering diverse attributes like content type, ratings, countries, durations, and genres. 
+
 ## Objectives
 Analyze the distribution of content types (movies vs TV shows).
 Identify the most common ratings for movies and TV shows.
